@@ -12,6 +12,7 @@ Jetpack 4.4
 dependency error, install error, skipped...별게 다뜬다
 일단 jetpack 4.3으로 버전을 낮춰보았다...도 실패
 네트워크에서 문제가 일어나는 듯 한데 분명히 같은 랜선 포트에 꼽았는데 뭐가 문제인건지..
+![삽질1](https://user-images.githubusercontent.com/50664844/87505170-2c189980-c6a3-11ea-8f16-a8dcdbc516fc.jpg)
 
 일단 OS를 깔고 SDK를 따로 다시 깔아보았다
 계속 에러가 생기지만 인내심을 갖고 retry하면 결국 깔린다!
