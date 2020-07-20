@@ -7,3 +7,6 @@ ocean, smoke 등 simulation 파일들 돌려봤고
 잘되다가 자꾸 네트워크 문제로 멈춤...연구실 와이파이 너무 느려ㅠㅠㅠ
 이번에도 인내심을 가지고 기다려 본다...
 
+오오 
+python하고 import tensorflow as tf 하니까 동작한다~
+근데 gpu로 돌리려면 어떻게 해야하지...흠
