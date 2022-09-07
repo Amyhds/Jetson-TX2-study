@@ -1,6 +1,8 @@
 # Jetson-TX2-study
 
 ## 1. Nvidia Jetson TX2 setting     
+### 1.1. Spec and components   
+### 1.2. Setting  
 
 ## 2. Tensorflow  
 
@@ -14,4 +16,6 @@
 
 ## 7. ActionAI
 
-## 8. Thesis  
+## 8. My Thesis  
+
+## 9. References
