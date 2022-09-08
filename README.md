@@ -6,9 +6,10 @@
 
 ### 1.2. Setting  
 
-## 2. Tensorflow  
 
-## 3. Jupyter notebook  
+## 2. Tensorflow installation  
+
+## 3. Jupyter notebook installation  
 
 ## 4. Google Vision API  
 
