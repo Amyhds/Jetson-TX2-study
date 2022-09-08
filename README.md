@@ -17,5 +17,5 @@
 ## 7. ActionAI
 
 ## 8. My Thesis  
-[A Study on Behavior Recognition Open Sources for Embedded Healthcare Monitoring System for the Elderly Living Alone] https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002836081
+[A Study on Behavior Recognition Open Sources for Embedded Healthcare Monitoring System for the Elderly Living Alone](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002836081)
 ## 9. References
