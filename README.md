@@ -2,6 +2,9 @@
 
 ## 1. Nvidia Jetson TX2 setting     
 ### 1.1. Spec and components   
+![image](https://user-images.githubusercontent.com/50664844/189030772-d3b783a1-68dd-4fa7-8f56-24cbfbd9b3a5.png)
+
+
 ### 1.2. Setting  
 
 ## 2. Tensorflow  
