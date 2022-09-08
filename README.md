@@ -2,8 +2,7 @@
 
 ## 1. Nvidia Jetson TX2 setting     
 ### 1.1. Spec and components   
-<img src:"https://user-images.githubusercontent.com/50664844/189030772-d3b783a1-68dd-4fa7-8f56-24cbfbd9b3a5.png" width="300" height="600"/>
-
+<img src = "https://user-images.githubusercontent.com/50664844/189031340-42730b9e-e00c-4202-b4ad-f351fdbc4d81.png" width="400px">
 
 ### 1.2. Setting  
 
