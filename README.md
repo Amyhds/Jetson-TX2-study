@@ -21,8 +21,8 @@ Jetson과 호스트 pc를 연결하는 역할
 - 마우스와 키보드  
 젯슨에 연결, USB 허브가 있다면 쓰는 것을 추천한다
 
-환경이 다 준비되었다면 초기 세팅 및 Jetapck 설치를 시작한다
-[젯슨 초기 세팅 영상](https://youtu.be/uve6d3ZoLL0)
+환경이 다 준비되었다면 초기 세팅 및 Jetapck 설치를 시작한다  
+[젯슨 초기 세팅 영상](https://youtu.be/uve6d3ZoLL0)  
 [Jetpack 설치 영상](https://youtu.be/Oyi-qKUcLJU)
 
 ## 2. Tensorflow installation  
@@ -34,11 +34,16 @@ Jetson과 호스트 pc를 연결하는 역할
 ## 4. Google Vision API  
 [구글 비젼 api 설치 영상](https://youtu.be/VjFWU1qFBWs)
 
-## 5. Trt-pose  
+## 5. Openpose  
+https://github.com/CMU-Perceptual-Computing-Lab/openpose  
+* 사람의 얼굴, 신체부위, 손가락을 추정하는 라이브러리로 Caffe, OpenCV 기반으로 이루어져 있다
 
-## 6. Openpose  
 
-## 7. ActionAI
+## 6. Trt-pose  
+https://github.com/NVIDIA-AI-IOT/trt_pose  
+
+## 7. ActionAI  
+https://github.com/smellslikeml/ActionAI 
 
 ## 8. My Graduation Thesis  
 [A Study on Behavior Recognition Open Sources for Embedded Healthcare Monitoring System for the Elderly Living Alone](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002836081)
@@ -46,4 +51,3 @@ Jetson과 호스트 pc를 연결하는 역할
 * https://developer.nvidia.com/embedded/jetson-tx2  
 * https://github.com/developer0hye/TX2-JetPack-Installation-Guide-Kr  
 * https://medium.com/@nomaishere/jetson-sdk-manager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-jetson-tx2%EC%97%90-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-35ac7b5b3994  
-
