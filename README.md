@@ -1,16 +1,16 @@
 # Jetson-TX2-study
 ## 목차
-### [1. Nvidia Jetson TX2 setting](#1.-nvidia-jetson-tx2-setting)
-### [2. Tensorflow installation](#2.-tensorflow-installation)
-### [3. Jupyter notebook installation](#3.-jupyter-notebook-installation)
-### [4. Google Vision API](#4.-google-Vision-API)
-### [5. Openpose](#5.-openpose)
-### [6. Trt_pose](#6.-trt_pose)
-### [7. Multi-person Real-time Action Recognition Based-on Human Skeleton](#7.-mrar)
-### [8. ActionAI](#8.-actionai)
-### [9. My Graduation Thesis](#9.-my-graduation-thesis)
-### [10. References](#10.-references)
-
+[1. Nvidia Jetson TX2 setting](#1.-nvidia-jetson-tx2-setting)  
+[2. Tensorflow installation](#2.-tensorflow-installation)  
+[3. Jupyter notebook installation](#3.-jupyter-notebook-installation)  
+[4. Google Vision API](#4.-google-Vision-API)  
+[5. Openpose](#5.-openpose)  
+[6. Trt_pose](#6.-trt_pose)  
+[7. Multi-person Real-time Action Recognition Based-on Human Skeleton](#7.-mrar)  
+[8. ActionAI](#8.-actionai)  
+[9. My Graduation Thesis](#9.-my-graduation-thesis)  
+[10. References](#10.-references)  
+ 
 
 ## 1. Nvidia Jetson TX2 setting     
 ### 1.1. Spec and components   
