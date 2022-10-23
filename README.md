@@ -1,6 +1,17 @@
 # Jetson-TX2-study
 ## 목차
 ### [1. Nvidia Jetson TX2 setting](#1-Nvidia-Jetson-TX2-setting)
+### [2. Tensorflow installation](#2-Tensorflow-installation)
+### [3. Jupyter notebook installation](#3-Jupyter-notebook-installation)
+### [4. Google Vision API](#4-Google-Vision-API)
+### [5. Openpose](#5-Openpose)
+### [6. Trt_pose](#6-Trt_pose)
+### [7. Multi-person Real-time Action Recognition Based-on Human Skeleton](#7-MRAR)
+### [8. ActionAI](#8-ActionAI)
+### [9. My Graduation Thesis](#9-My-Graduation-Thesis)
+### [10. References](#10-References)
+
+
 ## 1. Nvidia Jetson TX2 setting     
 ### 1.1. Spec and components   
 <img src = "https://user-images.githubusercontent.com/50664844/197373073-a68c4487-7458-4de3-a524-fe4f04ad52ca.png" width="400px">   <img src = "https://user-images.githubusercontent.com/50664844/189031340-42730b9e-e00c-4202-b4ad-f351fdbc4d81.png" width="400px">                  
@@ -177,7 +188,8 @@ $ export LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libgomp.so.1
 $ source ~/.bashrc 
 ```
 
-## 7. Multi-person Real-time Action Recognition Based-on Human Skeleton    
+## 7. MRAR    
+**Multi-person Real-time Action Recognition Based-on Human Skeleton**  
 https://github.com/felixchenfy/Realtime-Action-Recognition  
 ‘stand’, ‘walk’, ‘run’, ‘jump’, ‘sit’, ‘squat’, ‘kick’, ‘punch’, ‘wave’의 9가지 동작을 구분할 수 있는 행동인식 오픈소스  
 ### 7.1. tf-pose-estimation 설치  
