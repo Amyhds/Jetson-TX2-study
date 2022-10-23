@@ -231,8 +231,10 @@ https://github.com/smellslikeml/ActionAI
 * 각자가 이미지 파일을 각 클래스별로 수집해서 custom 모델을 훈련시킬 수 있음  
 
 ### 8.1. tensorflow 2.0 version
-https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform-release-notes/tf-jetson-rel.html#tf-jetson-rel 여기서 텐서플로우와 jetpack 버전 호환성을 확인 후,  
-https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html 이 링크를 참고해서 텐서플로우를 설치하면 된다
+https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform-release-notes/tf-jetson-rel.html#tf-jetson-rel  
+여기서 텐서플로우와 jetpack 버전 호환성을 확인 후,  
+https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html  
+이 링크를 참고해서 텐서플로우를 설치하면 된다
 ### 8.2. Scikit-learn, pandas 설치
 ```bash
 pip install –U scikit-learn
