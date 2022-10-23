@@ -36,11 +36,52 @@ Jetson과 호스트 pc를 연결하는 역할
 
 ## 5. Openpose  
 https://github.com/CMU-Perceptual-Computing-Lab/openpose  
-* 사람의 얼굴, 신체부위, 손가락을 추정하는 라이브러리로 Caffe, OpenCV 기반으로 이루어져 있다
+* 사람의 얼굴, 신체부위, 손가락을 추정하는 라이브러리로 Caffe, OpenCV 기반으로 이루어져 있다  
+### 5.1. Openpose 설치  
+*공식 깃허브에도 설치 메뉴얼이 있으니 참고*
+```
+git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
+cd openpose/
+git submodule update --init --recursive –remote
 
+cd {OpenPose_folder}
+mkdir build/
+cd build/
+cmake-gui ..
+```
+![image](https://user-images.githubusercontent.com/50664844/197374173-70aba59f-0e1e-4463-b6b8-64c7c1d604a9.png)
+![image](https://user-images.githubusercontent.com/50664844/197374176-c877ea05-a5e6-4ecf-9bd9-577d2a18969f.png)
+![image](https://user-images.githubusercontent.com/50664844/197374223-a09e3ea6-9794-4622-b72d-823ce8e178d3.png)
+1. BUILD_PYTHON flag를 활성화시키고 Configure를 다시 클릭  
+2. GPU_MODE flag는 변형하지 않고 Configure 누르기  
+3. 문제가 없다면 Configuring done이 아래 박스의 마지막 줄에 뜬다  
+4. Generate를 누르고 compilation이 완료되면 CMake를 끈다  
+```
+cd build/
+make -j`nproc`
+```
+탐색기의 openpose 폴더에 들어간 후 터미널을 실행한다  
+다음 명령어를 입력하면 예시동영상이 실행된다  
+```
+./build/examples/openpose/openpose.bin --video examples/media/video.avi
+```
+<img src = "https://user-images.githubusercontent.com/50664844/197374360-180f2ef7-a364-4538-a7bc-2baac5578f6a.png" width="400px"> 
+웹캠 실행을 위해서는 다음 명령어 중 하나 입력
+```
+./build/examples/openpose/openpose.bin
+./build/examples/openpose/openpose.bin --camera 0
+./build/examples/openpose/openpose.bin --camera 1
+```
 
 ## 6. Trt-pose  
 https://github.com/NVIDIA-AI-IOT/trt_pose  
+* trt_pose는 NVIDIA Jetson 환경에서 실시간 행동 인식을 목표로 한다  
+* pytorch(PyTorch는 Python을 위한 오픈소스 머신 러닝 라이브러리), torchvision, alexnet을 사용  
+* pytorch를 tensorRT로 변환  
+### 6.1. pytorch 설치  
+### 6.2. torchvision 설치  
+### 6.3. pre-trained model 다운로드
+
 
 ## 7. ActionAI  
 https://github.com/smellslikeml/ActionAI 
