@@ -6,7 +6,7 @@
 - 임베디드 AI 컴퓨팅 디바이스    
 - 로봇, 무인 항공기, 스마트 카메라 등의 지능형 장치에 이상적    
 
-<img src = "https://user-images.githubusercontent.com/50664844/197369168-b241431b-605b-4369-ab84-6b7d4e9d0733.png" width="100px">  
+<img src = "https://user-images.githubusercontent.com/50664844/197369168-b241431b-605b-4369-ab84-6b7d4e9d0733.png" width="200px">  
 
 ### 1.2. Setting  
 
