@@ -6,7 +6,6 @@
 
 ### 1.2. Setting  
 
-
 ## 2. Tensorflow installation  
 
 ## 3. Jupyter notebook installation  
@@ -19,7 +18,7 @@
 
 ## 7. ActionAI
 
-## 8. My Thesis  
+## 8. My Graduation Thesis  
 [A Study on Behavior Recognition Open Sources for Embedded Healthcare Monitoring System for the Elderly Living Alone](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002836081)
 ## 9. References
 https://developer.nvidia.com/embedded/jetson-tx2
