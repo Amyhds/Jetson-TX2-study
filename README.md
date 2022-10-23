@@ -11,6 +11,7 @@
 - 우분투 18.04가 설치된 PC
 jetpack을 설치할 호스트 컴퓨터  
 우분투를 가상머신에 설치하면 오류가 나기 때문에 멀티부팅 혹은 우분투 전용 pc를 준비  
+**호스트 pc와 젯슨 보드가 같은 와이파이나 이더넷 네트워크를 사용해야 한다**  
 [우분투 멀티부팅 튜토리얼 영상](https://youtu.be/KfxkGs3O_OM)  
 - Jetson TX2 보드  
 - USB Micro-B to USB A Cable  
@@ -19,17 +20,19 @@ Jetson과 호스트 pc를 연결하는 역할
 젯슨은 hdmi로만 연결이 되기 때문에 hdmi와 hdmi 포트가 있는 모니터를 준비해준다  
 - 마우스와 키보드  
 젯슨에 연결, USB 허브가 있다면 쓰는 것을 추천한다
-- **호스트 pc와 젯슨 보드가 같은 와이파이나 이더넷 네트워크를 사용해야 한다**  
 
 환경이 다 준비되었다면 초기 세팅 및 Jetapck 설치를 시작한다
-[젯슨 초기 세팅](https://youtu.be/uve6d3ZoLL0)
-[Jetpack 설치]()
+[젯슨 초기 세팅 영상](https://youtu.be/uve6d3ZoLL0)
+[Jetpack 설치 영상](https://youtu.be/Oyi-qKUcLJU)
 
 ## 2. Tensorflow installation  
+[텐서플로우 설치 영상](https://youtu.be/fnkK1fUHbWM)
 
 ## 3. Jupyter notebook installation  
+[주피터 노트북 설치 영상](https://youtu.be/lis633laa-A)
 
 ## 4. Google Vision API  
+[구글 비젼 api 설치 영상](https://youtu.be/VjFWU1qFBWs)
 
 ## 5. Trt-pose  
 
