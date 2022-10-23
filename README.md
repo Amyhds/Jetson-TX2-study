@@ -1,5 +1,6 @@
 # Jetson-TX2-study
-
+## 목차
+### [1. Nvidia Jetson TX2 setting](#1-Nvidia-Jetson-TX2-setting)
 ## 1. Nvidia Jetson TX2 setting     
 ### 1.1. Spec and components   
 <img src = "https://user-images.githubusercontent.com/50664844/197373073-a68c4487-7458-4de3-a524-fe4f04ad52ca.png" width="400px">   <img src = "https://user-images.githubusercontent.com/50664844/189031340-42730b9e-e00c-4202-b4ad-f351fdbc4d81.png" width="400px">                  
